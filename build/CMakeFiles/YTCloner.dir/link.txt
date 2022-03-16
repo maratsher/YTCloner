@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/YTCloner.dir/cloner.c.o  -o YTCloner 

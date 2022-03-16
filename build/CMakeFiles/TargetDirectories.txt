@@ -1,0 +1,3 @@
+/home/marat/Code/YTcloner/build/CMakeFiles/rebuild_cache.dir
+/home/marat/Code/YTcloner/build/CMakeFiles/edit_cache.dir
+/home/marat/Code/YTcloner/build/CMakeFiles/YTCloner.dir
